@@ -1,0 +1,2 @@
+# EncryptedQRCode
+Encrypted qr code
